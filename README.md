@@ -1,6 +1,6 @@
 # AdvertisingAuctions
 
-I simulated a truthful second-price auction using online learning algorithms to optimize the reserve price and revenue. 
+Simulation of a truthful second-price auction using online learning algorithms to optimize the reserve price and revenue. 
 
 ### What are Online Learning Algorithms?
 Online Learning Algorithms are a method of machine learning in which data becomes available in a sequential order and is used to update the best predictor for future data at each step. There are various algorithms such as Exponential Weights and Follow the Leader as well as variations of each.
